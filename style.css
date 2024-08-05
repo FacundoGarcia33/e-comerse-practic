@@ -1,0 +1,25 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    background-color: aqua;
+    color: black;
+}
+.productos {
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+}
+.productos img {
+    height: 200px;
+    width: 250px;
+}
+.prodcutos-container {
+    display: flex;
+    justify-content: space-between;
+}
